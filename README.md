@@ -1,6 +1,6 @@
 # Arabic-Patents
 
-This repoository is for the publication: Establishing a Baseline for Arabic Patents Classification: A Comparison of Twelve Approaches, accepted in WANLP 2022 (https://sites.google.com/view/wanlp2022/).
+This repository is for the publication: Establishing a Baseline for Arabic Patents Classification: A Comparison of Twelve Approaches, accepted in WANLP 2022 (https://sites.google.com/view/wanlp2022/).
 
 
 
