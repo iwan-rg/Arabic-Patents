@@ -6,4 +6,4 @@ This repository is for the publication: Establishing a Baseline for Arabic Paten
 
 
 Download ArPatent Dataset in .txt or .xml format:
-https://drive.google.com/file/d/1q-qJj_RihsvFtx3g0OY3DwqAIae627oU/view?usp=sharing
+https://drive.google.com/drive/folders/1QoQHKPcsuPLm9SeeD1AlOtJP-XfXy0JR?usp=sharing
